@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.docker</groupId>
-	<artifactId>DockerApi</artifactId>
+	<artifactId>DockerContainer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>DockerApi</name>
 	<description>Demo project for DockerApi</description>
